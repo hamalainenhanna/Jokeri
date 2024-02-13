@@ -12,8 +12,9 @@ button.addEventListener('click',() => {
         td.innerHTML = Math.floor(Math.random() *10)
         console.log(i)
     }
-    
+
 valmiit_rivit = valmiit_rivit +1
 document.querySelector('#rivit').innerHTML = valmiit_rivit   
 })
+
 

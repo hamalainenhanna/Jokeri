@@ -1,0 +1,17 @@
+div {
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+td {
+    
+    padding: 4px 8px;
+    border: solid black 1px;
+    border-radius: 5px;
+    background-color: rgb(211, 186, 230);
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px; /* Muuta tarpeen mukaan */
+  }
